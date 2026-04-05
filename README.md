@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chimgy
 - 👀 I’m interested in AI, Python, cyber-security and almost anything tech related
-- 📖 I’m currently in my final undergraduate year at the University of Wollongong
-- 🌱 Currently learning deep learning and machine learning using pyTorch
+- 📖 Computer science graduate from the University of Wollongong
+- 🌱 Currently shell and kernel building
 - 📫 Email me at charliejmarshall1234@gmail.com
