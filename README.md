@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Chimgy
-- 👀 I’m interested in AI, Python, cyber-security and almost anything tech related
-- 📖 Computer science graduate from the University of Wollongong
-- 🌱 Currently interested in shell and kernel building
-- 📫 Email me at charliejmarshall1234@gmail.com
+
+Computer science graduate from the University of Wollongong
+Currently interested in shell and kernel building
